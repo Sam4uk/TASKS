@@ -52,7 +52,7 @@ int RowWithBiggestSeries(int arr[], unsigned columns, unsigned rows)
 	}
 	return NumLine;
 }
-#define RANDOM (10)
+// #define RANDOM (10)
 int main()
 {
 	cout << "Column count = ";
